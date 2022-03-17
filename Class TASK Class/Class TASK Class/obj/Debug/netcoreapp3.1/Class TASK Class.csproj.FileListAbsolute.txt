@@ -1,0 +1,14 @@
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.exe
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.deps.json
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.runtimeconfig.json
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.runtimeconfig.dev.json
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.dll
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\bin\Debug\netcoreapp3.1\Class TASK Class.pdb
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.csproj.AssemblyReference.cache
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.AssemblyInfoInputs.cache
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.AssemblyInfo.cs
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.csproj.CoreCompileInputs.cache
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.dll
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.pdb
+C:\Users\tu60prbs1\source\repos\Class TASK Class\Class TASK Class\obj\Debug\netcoreapp3.1\Class TASK Class.genruntimeconfig.cache
